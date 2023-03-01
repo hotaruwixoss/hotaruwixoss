@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **A Power bi personal project**
 
-- 👯 I’m looking to collaborate on **on python projects**
+- 👯 I’m looking to collaborate on **on data analysis projects and python projects**
 
 - 💬 Ask me about **SQL, Angular, html and css**
 
